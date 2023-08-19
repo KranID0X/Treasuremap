@@ -23,7 +23,6 @@ if turn=="left":
             print("Burned by fire. GAME OVER.")
         elif door=="yellow":
             print("YOU WIN!")
-           k
         elif door=="blue":
             print("Eaten by beasts. GAME OVER")
         else:
